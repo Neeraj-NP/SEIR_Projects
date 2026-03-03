@@ -37,4 +37,5 @@ if __name__ == "__main__":
     print("\npage body:\n", body[:])
     print("\nLinks:")
     for l in links:
+
         print(l)
